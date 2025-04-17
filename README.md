@@ -7,4 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/melkamzeranteneh/Data-structures-and-algorithms/tree/master/0009-palindrome-number) |
+## Array
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/melkamzeranteneh/Data-structures-and-algorithms/tree/master/0041-first-missing-positive) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/melkamzeranteneh/Data-structures-and-algorithms/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->
