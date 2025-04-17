@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/melkamzeranteneh/Data-structures-and-algorithms/tree/master/0009-palindrome-number) |
+| [0060-permutation-sequence](https://github.com/melkamzeranteneh/Data-structures-and-algorithms/tree/master/0060-permutation-sequence) |
 ## Array
 |  |
 | ------- |
@@ -24,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/melkamzeranteneh/Data-structures-and-algorithms/tree/master/0004-median-of-two-sorted-arrays) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/melkamzeranteneh/Data-structures-and-algorithms/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
