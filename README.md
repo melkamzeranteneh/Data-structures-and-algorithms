@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/melkamzeranteneh/Data-structures-and-algorithms/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/melkamzeranteneh/Data-structures-and-algorithms/tree/master/0060-permutation-sequence) |
+| [0273-integer-to-english-words](https://github.com/melkamzeranteneh/Data-structures-and-algorithms/tree/master/0273-integer-to-english-words) |
 ## Array
 |  |
 | ------- |
@@ -29,4 +30,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/melkamzeranteneh/Data-structures-and-algorithms/tree/master/0060-permutation-sequence) |
+| [0273-integer-to-english-words](https://github.com/melkamzeranteneh/Data-structures-and-algorithms/tree/master/0273-integer-to-english-words) |
+## String
+|  |
+| ------- |
+| [0273-integer-to-english-words](https://github.com/melkamzeranteneh/Data-structures-and-algorithms/tree/master/0273-integer-to-english-words) |
 <!---LeetCode Topics End-->
