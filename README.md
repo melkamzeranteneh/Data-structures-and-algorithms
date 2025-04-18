@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/melkamzeranteneh/Data-structures-and-algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/melkamzeranteneh/Data-structures-and-algorithms/tree/master/0041-first-missing-positive) |
 ## Binary Search
 |  |
@@ -34,6 +35,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/melkamzeranteneh/Data-structures-and-algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/melkamzeranteneh/Data-structures-and-algorithms/tree/master/0038-count-and-say) |
 | [0273-integer-to-english-words](https://github.com/melkamzeranteneh/Data-structures-and-algorithms/tree/master/0273-integer-to-english-words) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/melkamzeranteneh/Data-structures-and-algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
