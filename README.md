@@ -34,5 +34,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/melkamzeranteneh/Data-structures-and-algorithms/tree/master/0038-count-and-say) |
 | [0273-integer-to-english-words](https://github.com/melkamzeranteneh/Data-structures-and-algorithms/tree/master/0273-integer-to-english-words) |
 <!---LeetCode Topics End-->
